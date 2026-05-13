@@ -1,4 +1,4 @@
-# 
+# Get the ultimate leverage trading bot with updated leverage trading bot Algorithm | trailing-stop + position-sizing. Featuring trailing-stop and position-sizing, it's the best
 
 
 
